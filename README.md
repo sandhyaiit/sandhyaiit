@@ -42,4 +42,5 @@
 
 <br clear="both">
 <img src="snake.svg" alt="Snake animation" />
+
 ###
