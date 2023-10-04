@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! 
+<h2 align="left">Hi 👋!</h2> 
 <h2 align="left">My name is S Sandhya Rani and I'm a ongoing Master's student from Indian Institute of Technology Hyderabad</h2>
 
 ###
@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sandhyaiit/sandhyaiit/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sandhyaiit/sandhyaiit/blob/main/snake.svg" alt="Snake animation" />
 
 ###
