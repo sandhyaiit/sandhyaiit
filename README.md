@@ -41,8 +41,6 @@
 ###
 
 <br clear="both">
-
-<img src="snake.svg" alt="Snake animation" />
-#![ScreenShot](snake.svg.svg)
+![ScreenShot](snake.svg.svg)
 
 ###
