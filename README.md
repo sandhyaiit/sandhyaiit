@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋!</h2> 
-My name is S Sandhya Rani and I'm a ongoing Master's student from Indian Institute of Technology Hyderabad
+<h2 align="left">Hi 👋!
+I am S Sandhya Rani, Master's student from Indian Institute of Technology, Hyderabad
 
 ###
 
