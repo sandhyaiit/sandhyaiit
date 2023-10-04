@@ -42,6 +42,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sandhyaiit/sandhyaiit/blob/main/snake.svg" alt="Snake animation" />
+#<img src="https://raw.githubusercontent.com/sandhyaiit/sandhyaiit/blob/main/snake.svg" alt="Snake animation" />
+![ScreenShot](snake.svg)
 
 ###
