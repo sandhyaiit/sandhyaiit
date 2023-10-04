@@ -41,6 +41,6 @@
 ###
 
 <br clear="both">
-![ScreenShot](snake.svg.svg)
+![ScreenShot](snake.svg)
 
 ###
