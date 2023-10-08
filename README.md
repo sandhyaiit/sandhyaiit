@@ -39,6 +39,7 @@ I am S Sandhya Rani, Master's student at IIT, Hyderabad </h2>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   </a>
+  <img width="12" />
   <a href="https://opencv.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
   </a>
