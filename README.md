@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋!
-I am S Sandhya Rani, Master's student at IIT, Hyderabad </h2>
+I am S Sandhya Rani, I am an R&D ML Engineer at Qualcomm and a Master's student at IIT Hyderabad, with a passion for AI and ML. </h2>
 
 ###
 
